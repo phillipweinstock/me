@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![stats](https://github-readme-stats.vercel.app/api?username=napei&show_icons=true&theme=algolia&count_private=true)
 <!--
 **napei/napei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
